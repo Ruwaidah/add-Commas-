@@ -3,10 +3,15 @@
 Answer the following questions below:
 
 - What is React? When and why would you use it?
+ is an open-source JavaScript library that is used for building user interfaces specifically for single-page applications. It’s used for handling the view layer for web and mobile apps. React also allows us to create reusable UI components.
+
 
 - What is Babel?
+    is a JavaScript compiler that converts modern JavaScript code into a version compatible with all browsers. Babel enables React developers to use the latest JavaScript syntax in their components. Babel transpiles modern JavaScript for use in React components and all browsers.
 
 - What is JSX?
+    JSX allows us to write HTML elements in JavaScript and place them in the DOM without any createElement()  and/or appendChild() methods.
+    JSX converts HTML tags into react elements.
 
 - How is a Component created in React?
 
