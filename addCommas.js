@@ -22,4 +22,4 @@ console.log(addCommas(6));
 console.log(addCommas(-10));
 console.log(addCommas(-5678));
 
-// module.exports = addCommas;
+module.exports = addCommas;
